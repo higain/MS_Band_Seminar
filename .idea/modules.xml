@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BandAccelerometerApp/BandAccelerometerApp.iml" filepath="$PROJECT_DIR$/BandAccelerometerApp/BandAccelerometerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandAltimeterApp/BandAltimeterApp.iml" filepath="$PROJECT_DIR$/BandAltimeterApp/BandAltimeterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandAmbientLightApp/BandAmbientLightApp.iml" filepath="$PROJECT_DIR$/BandAmbientLightApp/BandAmbientLightApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandBarometerApp/BandBarometerApp.iml" filepath="$PROJECT_DIR$/BandBarometerApp/BandBarometerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandGsrApp/BandGsrApp.iml" filepath="$PROJECT_DIR$/BandGsrApp/BandGsrApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandHeartRateApp/BandHeartRateApp.iml" filepath="$PROJECT_DIR$/BandHeartRateApp/BandHeartRateApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandLayoutApp/BandLayoutApp.iml" filepath="$PROJECT_DIR$/BandLayoutApp/BandLayoutApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandNotificationApp/BandNotificationApp.iml" filepath="$PROJECT_DIR$/BandNotificationApp/BandNotificationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandPersonalizationApp/BandPersonalizationApp.iml" filepath="$PROJECT_DIR$/BandPersonalizationApp/BandPersonalizationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandRRIntervalApp/BandRRIntervalApp.iml" filepath="$PROJECT_DIR$/BandRRIntervalApp/BandRRIntervalApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BandTileEventApp/BandTileEventApp.iml" filepath="$PROJECT_DIR$/BandTileEventApp/BandTileEventApp.iml" />
+    </modules>
+  </component>
+</project>
